@@ -1,6 +1,7 @@
 # IFRS SYSTEM
 
 IFRS Systems
+Basic IFRS standars implementation using Spring, Hibernate and Mysql
 
 ## Installation
 
